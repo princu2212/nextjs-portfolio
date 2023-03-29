@@ -9,7 +9,7 @@ const About = () => {
           <div className="row">
             <div className="col-md-6 col-12 text-center">
               <Image
-                src="/../public/images/header-image.png"
+                src="/images/header-image.png"
                 alt="model"
                 width={500}
                 height={500}

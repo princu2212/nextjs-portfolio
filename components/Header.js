@@ -106,7 +106,7 @@ const Header = () => {
               </div>
               <div className="col-md-5 col-12">
                 <Image
-                  src="/../public/images/header-image.png"
+                  src="/images/header-image.png"
                   alt="header-image"
                   width={500}
                   height={500}

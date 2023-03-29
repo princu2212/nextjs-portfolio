@@ -19,7 +19,7 @@ const Project = () => {
                   <div className="carousel-inner">
                     <div className="carousel-item active">
                       <Image
-                        src="/../public/images/es1.PNG"
+                        src="/images/es1.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -28,7 +28,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/es2.PNG"
+                        src="/images/es2.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -37,7 +37,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/es3.PNG"
+                        src="/images/es3.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -46,7 +46,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/es9.PNG"
+                        src="/images/es9.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -55,7 +55,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/es10.PNG"
+                        src="/images/es10.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -64,7 +64,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/es4.PNG"
+                        src="/images/es4.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -73,7 +73,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/es5.PNG"
+                        src="/images/es5.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -82,7 +82,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/es6.PNG"
+                        src="/images/es6.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -91,7 +91,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/es7.PNG"
+                        src="/images/es7.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -100,7 +100,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/es8.PNG"
+                        src="/images/es8.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -143,7 +143,7 @@ const Project = () => {
                   <div className="carousel-inner">
                     <div className="carousel-item active">
                       <Image
-                        src="/../public/images/ebooks1.PNG"
+                        src="/images/ebooks1.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -152,7 +152,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/ebooks2.PNG"
+                        src="/images/ebooks2.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -161,7 +161,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/ebooks3.PNG"
+                        src="/images/ebooks3.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -170,7 +170,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/ebooks4.PNG"
+                        src="/images/ebooks4.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -214,7 +214,7 @@ const Project = () => {
                   <div className="carousel-inner">
                     <div className="carousel-item active">
                       <Image
-                        src="/../public/images/dmc1.PNG"
+                        src="/images/dmc1.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -223,7 +223,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/dmc2.PNG"
+                        src="/images/dmc2.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -232,7 +232,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/dmc3.PNG"
+                        src="/images/dmc3.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -241,7 +241,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/dmc4.PNG"
+                        src="/images/dmc4.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -285,7 +285,7 @@ const Project = () => {
                   <div className="carousel-inner">
                     <div className="carousel-item active">
                       <Image
-                        src="/../public/images/todolist.PNG"
+                        src="/images/todolist.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -328,7 +328,7 @@ const Project = () => {
                   <div className="carousel-inner">
                     <div className="carousel-item active">
                       <Image
-                        src="/../public/images/weather.PNG"
+                        src="/images/weather.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -371,7 +371,7 @@ const Project = () => {
                   <div className="carousel-inner">
                     <div className="carousel-item active">
                       <Image
-                        src="/../public/images/chat1.PNG"
+                        src="/images/chat1.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -380,7 +380,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/chat2.PNG"
+                        src="/images/chat2.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -416,7 +416,7 @@ const Project = () => {
                   <div className="carousel-inner">
                     <div className="carousel-item active">
                       <Image
-                        src="/../public/images/translator1.PNG"
+                        src="/images/translator1.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -425,7 +425,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/translator2.PNG"
+                        src="/images/translator2.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -434,7 +434,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/translator3.PNG"
+                        src="/images/translator3.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
@@ -443,7 +443,7 @@ const Project = () => {
                     </div>
                     <div className="carousel-item">
                       <Image
-                        src="/../public/images/translator4.PNG"
+                        src="/images/translator4.PNG"
                         className="d-block w-100 h-75"
                         alt="..."
                         width={500}
