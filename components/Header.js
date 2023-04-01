@@ -62,7 +62,7 @@ const Header = () => {
                   <p className="details">
                     Full Stack Developer | React Developer | Web Designer
                   </p>
-                  <Link href="file/Resume.pdf" className="btn">
+                  <Link href="file/Resume.pdf" target="_blank" className="btn">
                     Download CV
                   </Link>
                 </div>
